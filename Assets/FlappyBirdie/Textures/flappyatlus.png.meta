@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 9a46049f241d32a4f812b871d85abbfc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flappyatlus_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 910
+        width: 336
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 984
+        width: 156
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 914
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 666
+        width: 52
+        height: 316
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 808
+        width: 324
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 844
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 772
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 774
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 666
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 740
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 740
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 706
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 670
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 672
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 634
+        width: 193
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 630
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 193
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_26
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 594
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 576
+        width: 188
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 560
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 508
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 508
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 262
+        width: 50
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 440
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 440
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 390
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 390
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: flappyatlus_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 340
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

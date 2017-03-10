@@ -33,6 +33,6 @@ SpecialNotes:
 
 
 So giddy-up.. Get the Flappy Birdie Source Code now!
-In case you have any questions you can contact me via mail to: pardeep@pocketguru.ca
+In case you have any questions you can contact me via mail to: par@pardeepchahal.com
 Cheers! 
 Pardeep
